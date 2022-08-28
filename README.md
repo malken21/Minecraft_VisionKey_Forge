@@ -1,2 +1,2 @@
-# Minecraft_VisionKey_mod
+# Minecraft_VisionKey_forge
 minecraft forge
